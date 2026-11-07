@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "arcgis-pro": {
+      "command": "C:\\path\\to\\venv-mcp\\Scripts\\python.exe",
+      "args": ["C:\\path\\to\\arcgis-mcp\\server.py"],
+      "env": {
+        "ARCGIS_BRIDGE_URL": "http://127.0.0.1:8765",
+        "ARCGIS_BRIDGE_TOKEN": "ganti-dengan-secret-panjang"
+      }
+    }
+  }
+}
